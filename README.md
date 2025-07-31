@@ -20,7 +20,7 @@ I'm an undergraduate student in Cybersecurity. Below are some projects I've work
 - **Timeframe:** 03/2025 - Present
 - **Description:** Designing and building a custom motor and flight controller for RC aircraft using Arduino and FreeCAD for design.
 - **Status:** Ongoing
-- **Technologies:** Arduino, FreeCAD, Electronics
+- **Technologies:** Arduino, Fusion360, Electronics
 
 ### Home Assistant Using AI APIs
 - **Timeframe:** 2024 (Started in 03/2025)
