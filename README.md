@@ -1,6 +1,6 @@
 # Louis Mensah Portfolio
 
-I'm an undergraduate student in Cybersecurity. Below are some projects I've worked on.
+I'm an undergraduate student in Cybersecurity. Below are some projects I am working on.
 
 ## Projects
 
